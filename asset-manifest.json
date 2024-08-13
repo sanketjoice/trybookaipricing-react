@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trybookaipricing-react/static/css/main.fcb897d5.css",
+    "main.js": "/trybookaipricing-react/static/js/main.6a3e2853.js",
+    "index.html": "/trybookaipricing-react/index.html",
+    "main.fcb897d5.css.map": "/trybookaipricing-react/static/css/main.fcb897d5.css.map",
+    "main.6a3e2853.js.map": "/trybookaipricing-react/static/js/main.6a3e2853.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcb897d5.css",
+    "static/js/main.6a3e2853.js"
+  ]
+}
